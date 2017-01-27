@@ -1,0 +1,32 @@
+ISim log file
+Running: D:\School\UCLA\Junior\Fall 2016\m152a\lab3b\state_test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/state_test_isim_beh.wdb 
+ISim P.20131013 (signature 0x8ef4fb42)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+mode = 0011
+mode = 0000
+mode = 0011
+mode = 1010
+mode = 0101
+mode = 0000
+mode = 0011
+# restart
+# run all
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+mode = 0011
+mode = 0000
+mode = 0011
+mode = 1010
+mode = 0101
+mode = 0000
+mode = 0011
+Stopped at time : 37833105 ns : File "D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/state_test.v" Line 77

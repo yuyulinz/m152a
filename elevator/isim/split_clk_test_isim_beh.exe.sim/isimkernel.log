@@ -1,0 +1,31 @@
+Command line:
+   split_clk_test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  63680
+
+Mon Nov 21 09:45:10 2016
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 842.453 Meg
+
+ Total Signals          : 22
+ Total Nets             : 18
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 14
+ Total Traceable Variables  : 27
+ Total Scalar Nets and Variables : 215
+Total Line Count : 48
+Total Line Count : 48
+Total Line Count : 48
+
+ Total Simulation Time: 59.8281 sec
+
+ Current Memory Usage: 685.167 Meg
+
+Mon Nov 21 09:46:54 2016
+

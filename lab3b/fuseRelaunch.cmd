@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/stpwatchtest_isim_beh.exe" -prj "D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/stpwatchtest_beh.prj" "work.stpwatchtest" "work.glbl" 

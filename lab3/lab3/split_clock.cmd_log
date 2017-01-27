@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "D:/School/UCLA/Junior/Fall 2016/m152a/lab3/lab3/split_clock.xst" -ofn "D:/School/UCLA/Junior/Fall 2016/m152a/lab3/lab3/split_clock.syr" 
+xst -intstyle ise -ifn "D:/School/UCLA/Junior/Fall 2016/m152a/lab3/lab3/split_clock.xst" -ofn "D:/School/UCLA/Junior/Fall 2016/m152a/lab3/lab3/split_clock.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "split_clock.ngc" split_clock.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o split_clock_map.ncd split_clock.ngd split_clock.pcf 
+par -w -intstyle ise -ol high -mt off split_clock_map.ncd split_clock.ncd split_clock.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml split_clock.twx split_clock.ncd -o split_clock.twr split_clock.pcf 

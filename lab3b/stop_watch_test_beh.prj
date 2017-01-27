@@ -1,0 +1,4 @@
+verilog work "split_clk.v"
+verilog work "stop_watch.v"
+verilog work "stop_watch_test.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

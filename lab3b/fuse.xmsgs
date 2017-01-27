@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompiler" num="31" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 45: &lt;<arg fmt="%s" index="1">second1</arg>&gt; is already declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="31" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 51: &lt;<arg fmt="%s" index="1">second2</arg>&gt; is already declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="31" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 57: &lt;<arg fmt="%s" index="1">minute1</arg>&gt; is already declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="31" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 63: &lt;<arg fmt="%s" index="1">minute2</arg>&gt; is already declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 71: Syntax error near &quot;<arg fmt="%s" index="1">&apos;</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 93: Syntax error near &quot;<arg fmt="%s" index="1">end</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 99: Syntax error near &quot;<arg fmt="%s" index="1">end</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="806" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 105: Syntax error near &quot;<arg fmt="%s" index="1">end</arg>&quot;.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 94: &lt;<arg fmt="%s" index="1">secondscount</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="69" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 100: &lt;<arg fmt="%s" index="1">secondscount</arg>&gt; is not declared.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="346" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 99: Default case should appear only once
+</msg>
+
+<msg type="error" file="HDLCompiler" num="346" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 105: Default case should appear only once
+</msg>
+
+<msg type="error" file="HDLCompiler" num="346" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 121: Default case should appear only once
+</msg>
+
+<msg type="error" file="HDLCompiler" num="346" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 122: Default case should appear only once
+</msg>
+
+<msg type="error" file="HDLCompiler" num="346" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 123: Default case should appear only once
+</msg>
+
+<msg type="error" file="HDLCompiler" num="598" delta="unknown" >"D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/display.v" Line 21: Module &lt;<arg fmt="%s" index="1">display</arg>&gt; ignored due to previous errors.
+</msg>
+
+</messages>
+

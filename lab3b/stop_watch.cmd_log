@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/stop_watch.xst" -ofn "D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/stop_watch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "stop_watch.ngc" stop_watch.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o stop_watch_map.ncd stop_watch.ngd stop_watch.pcf 
+xst -intstyle ise -ifn "D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/stop_watch.xst" -ofn "D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/stop_watch.syr" 
+xst -intstyle ise -ifn "D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/stop_watch.xst" -ofn "D:/School/UCLA/Junior/Fall 2016/m152a/lab3b/stop_watch.syr" 
